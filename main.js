@@ -28,7 +28,7 @@ var nextLvl = (userLevel+1)^2*xpModifier;
 var initialBp = (Math.floor(Math.random()*10))+5;
 var userXp = 0;
 var levelUpBp = 0;
-var dmgDealt = userAtk-atk;
+var dmgDealt = userAtk-def;
 
 function initialLoad(){
   if(1===1/*localstorageisnotpresent*/){
@@ -54,8 +54,8 @@ function monsterEncounter(){
     console.log('Speed Stat: ' + spd);
     console.log('HP Stat: ' + hp);
     console.log('Stats Growth: ' + ((lvlGrowth*100)-100) + '%');
-    console.log('BP gained: ' + bp);*/
-    console.log('Monster level: ' + monsterLevel)
+    console.log('BP gained: ' + bp);
+    console.log('Monster level: ' + monsterLevel);*/
   //}
 }
 function battle(){
@@ -298,7 +298,7 @@ function monsterData(id){
   //if(data.message.slice(0,10) === '!encounter'){
     //var monsterGroupSelect = prompt('What group of monsters do you want to go against? (1,2 or 3)(Only 1 is currently available.)');
     //if(monsterGroupSelect === '1'){
-      monsterEncounter();
+      battle();
       //console.log('Sorry, you cannot currently do battles!');
     //} else {
       //console.log('This group of monsters is either unavailable or inexistant.');
