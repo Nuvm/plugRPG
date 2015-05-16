@@ -1,6 +1,10 @@
 //dont copy or modify without our permission pls, thx
 //if you steal the code you're an asshole >:(
 
+//Feel free to edit the monsters' data. Quick notice: monsters0 are mainly made for low-level training, 
+//monsters1 is a little bit harder, monsters2 is also a bit harder, and so on. Feel free to change stats and stuff
+//in pull requests.
+
 var monsters0 = ['id00','id01','id02','id03','id04','id05','id06','id07','id08','id09'];
 var monsters1 = ['id10','id11','id12','id13','id14','id15','id16','id17','id18','id19'];
 var monsters2 = ['id20','id21','id22','id23','id24','id25','id26','id27','id28','id29'];
