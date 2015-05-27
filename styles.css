@@ -1,0 +1,6 @@
+[data-cid^="5010460-"] .msg .from .un {
+    font-size: 12px;
+}
+[data-cid^="5010460-"] .msg .from .un:hover {
+    text-shadow: 0 0 10px #00FFFF;
+}
