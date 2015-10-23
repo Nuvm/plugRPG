@@ -1,2 +1,1238 @@
 //This code is licensed under a Creative Commons license. You need permission in order to use, modify or publish our work.
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('S 1T=1;S 23=1;S 21=1;S 1Z=1;S 1q=10;S 1F=10;S 27=0;S 1n=0;S 2l=0;S 2m=0;S 2F=0;S 2M=0;S 52=22.4O().4W;S 2K;S 7M=[\'7O\',\'7P\',\'7U\',\'7W\',\'7Y\',\'82\',\'85\',\'86\',\'87\',\'88\'];S 4q=[\'6a\',\'6l\',\'6b\',\'69\',\'66\',\'63\',\'62\',\'5m\',\'51\',\'5A\',\'3V\'];S 9D=[\'6c\',\'5G\',\'5y\',\'5p\',\'6K\',\'5M\',\'5L\',\'5l\',\'5V\',\'5I\',\'3V\'];S 9U=[\'6v\',\'6F\',\'4R\',\'4Y\',\'50\',\'58\',\'59\',\'5c\',\'5d\',\'5h\',\'3V\'];S 5j=((e.g(e.h()*1P)/9Q)*(e.g(e.h()*10)));S 3p=[];S 6x=53;S 4N;S 6I=2;S 2k;S 2n;S 3B;S 4G;S 2Y;S 20;S f=-1;S l=-1;S c=-1;S d=-1;22.C(22.9I,5v);j 5v(){n(3e!==1X){5U()}}22.C(22.9H,61);j 61(a){4p.48=a;n(a.4e.4f(0,8)===\'!9C\'&&a.4i===22.4O().P){22.4U("9B 3Q 4m:");3O(j(){22.4U("4o: "+1T+", 1N: "+1q+"/"+1F+", 2E: "+23+", 3l: "+21+", 3m: "+1Z+", 4F: "+27+", 4P: "+2l+", 4u: "+2m)},9A)}p n(a.4e.4f(0,10)===\'!9u\'&&a.4i===9t){3y()}p n(a.4e.4f(0,6)===\'!9o\'&&a.4i===9m){9l()}n(20!==1o){S b=4x.9k("9j 9g");4v(S i=0;i<b.2s;i++){n(b[i].3f===\'6D 6E\'){b[i].3f=\'4k\'+\'【3Q 9f】\'}}}}22.C(22.9e,6L);j 6L(a){4p.48=a;38(a){1r\'/4V\':$(\'#1V-1R\').B(\'<3Z><41>9d:<1l>/26<1l>/4V<1l>/5f<1l>/2L<1l>/2U<1l>/5k</41></3Z>\');1t;1r\'/5f\':$(\'#1V-1R\').B(\'<u>2R 3n 9b 49 4k (6D 6E). 93 92 90 1c 8Z 8Y n 1u 8X 8T 49 ;)</u>\');1t;1r\'/26\':$(\'#1V-1R\').B(\'<3Z><41 P="5J"></41></3Z>\');$(\'#5J\').3f=22.4O().4W+"\'s 26 2C 3Q:<1l>4o: "+1T+"<1l>1N: "+1q+"/"+1F+"<1l>2E: "+23+"<1l>3l: "+21+"<1l>3m: "+1Z+"<1l>1J: "+1n+"<1l>4F: "+27+"<1l>3P 30 5W: "+2F+"<1l>3P 30 5Y: "+2M+"<1l>4P: "+2l+"<1l>4u: "+2m;1t;1r\'/2L\':n(20!==1o){4s();$(\'#1V-1R\').B(\'<u F="k-I:W;">2R 18 2X 3u. 3k 6h 2x 6j, w /2U.</u>\')}p{$(\'#1V-1R\').B(\'<u F="k-I:W;">2R 18 8S 3u. 3k 6h 2x 6j, w /2U.</u>\')}1t;1r\'/2U\':n(20===1o){20=1X;3z();3A();$(\'#1V-1R\').B(\'<u F="k-I:W;">2R 18 2X 8R. 3k 2L 2x, w /2L.</u>\')}p{$(\'#1V-1R\').B(\'<u F="k-I:W;">2R 18 2H 3u. 3k 2L 2x, w /2L.</u>\')}1t;1r\'/5k\':4A();$(\'#1V-1R\').B(\'<u F="k-I:W;">3F 3n 4y 49 2o.</u>\');1t}}j 8Q(){$(\'#1V-1R\').B(\'<u F="k-I:W;">4k 8P a 3I 8N 1H 8M!</u>\');2J=e.g(e.h()*3);n(2J>1){3O(j(){$(\'#1V-1R\').B(\'<u F="k-I:W;">4X! 35 3I 4Z 1u!</u>\');1q=0;2W()},3K)}p n(2J<1){3O(j(){$(\'#1V-1R\').B(\'<u F="k-I:W;">35 3I 8L 56 1u 8K 8J 8H!</u>\')},3K)}p{3O(j(){$(\'#1V-1R\').B(\'<u F="k-I:W;">4X! 35 3I 8D 4Z 1u!</u>\');1q=1;2W()},3K)}}n(3L(8C)==="3N"){4n("5i, 2j 8B 6R 2H 8z 8y 8x. 5r 48 C 3Q 5s 2H 5t 8w. 8u 8q a 8p 8o 8n 8m, 8l, 8j 4g 8i.")}n(3L 2P.1w!=="3N"){1w=5H.8h(2P.8g(\'1w\'));1T=1w[0];23=1w[1];21=1w[2];1Z=1w[3];1q=1w[4];1F=1w[5];27=1w[6];1n=1w[7];2l=1w[8];2m=1w[9];2F=1w[10];2M=1w[11];20=1w[12]}4h.8c("8b",j(){n(2Y!==1o){5Z=[1T,23,21,1Z,1q,1F,27,1n,2l,2m,2F,2M,20];2P.1w=5H.8a(5Z)}});j 2W(){n($(\'#1W\').2s){$(\'#1W\').k(1q+" / "+1F)}}89(2W,3K);j 3b(){n(20===1o){$(\'#1V-1R\').B(\'<u P="68" F="1k-v:4l;k-I:W;"></u>\');$(\'#68\').3f="<b>2R 18 2Q 3u. 6e \'/2U\' 1c 2U 2x.</b>"}}3b();j 29(){$(\'#1e\').B(\'<U P="r" w="U" F="16:17; 15:3J; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#r\').T(j(){$(\'#r\').q("Q","1B")},j(){$(\'#r\').q("Q","1A")});$(\'#r\').T(j(){$(\'#r\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#r\').q("Z-Y","m m m m #V 13")})}j 2Z(){$(\'#1e\').B(\'<U P="A" w="U" F="16:17; 15:4E; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#1e\').B(\'<U P="r" w="U" F="16:17; 15:3J; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#A\').T(j(){$(\'#A\').q("Q","1B")},j(){$(\'#A\').q("Q","1A")});$(\'#A\').T(j(){$(\'#A\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#A\').q("Z-Y","m m m m #V 13")});$(\'#r\').T(j(){$(\'#r\').q("Q","1B")},j(){$(\'#r\').q("Q","1A")});$(\'#r\').T(j(){$(\'#r\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#r\').q("Z-Y","m m m m #V 13")})}j 4D(){$(\'#1e\').B(\'<U P="L" w="U" F="16:17; 15:54; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#1e\').B(\'<U P="A" w="U" F="16:17; 15:4E; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#1e\').B(\'<U P="r" w="U" F="16:17; 15:3J; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#L\').T(j(){$(\'#L\').q("Q","1B")},j(){$(\'#L\').q("Q","1A")});$(\'#L\').T(j(){$(\'#L\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#L\').q("Z-Y","m m m m #V 13")});$(\'#A\').T(j(){$(\'#A\').q("Q","1B")},j(){$(\'#A\').q("Q","1A")});$(\'#A\').T(j(){$(\'#A\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#A\').q("Z-Y","m m m m #V 13")});$(\'#r\').T(j(){$(\'#r\').q("Q","1B")},j(){$(\'#r\').q("Q","1A")});$(\'#r\').T(j(){$(\'#r\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#r\').q("Z-Y","m m m m #V 13")})}j 3o(){$(\'#1e\').B(\'<U P="L" w="U" F="16:17; 15:54; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#1e\').B(\'<U P="A" w="U" F="16:17; 15:4E; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#1e\').B(\'<U P="r" w="U" F="16:17; 15:3J; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#1e\').B(\'<U P="1f" w="U" F="16:17; 15:7L; 1s:2.G; 1i:2c; 1h:24; 1k-v:1m; v:1g; 1a: 0.8; k-I:W;"></U>\');$(\'#L\').T(j(){$(\'#L\').q("Q","1B")},j(){$(\'#L\').q("Q","1A")});$(\'#L\').T(j(){$(\'#L\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#L\').q("Z-Y","m m m m #V 13")});$(\'#A\').T(j(){$(\'#A\').q("Q","1B")},j(){$(\'#A\').q("Q","1A")});$(\'#A\').T(j(){$(\'#A\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#A\').q("Z-Y","m m m m #V 13")});$(\'#r\').T(j(){$(\'#r\').q("Q","1B")},j(){$(\'#r\').q("Q","1A")});$(\'#r\').T(j(){$(\'#r\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#r\').q("Z-Y","m m m m #V 13")});$(\'#1f\').T(j(){$(\'#1f\').q("Q","1B")},j(){$(\'#1f\').q("Q","1A")});$(\'#1f\').T(j(){$(\'#1f\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#1f\').q("Z-Y","m m m m #V 13")})}j 3z(){$(\'1S\').B(\'<U P="2p" 2q="5b()" F="16:17; 15:4r; 1U:7K; 1h: 1b; 1i: 5g; 1k-v: 1m; 19-1C:1b; 1a: 0.8; z-1x: 1P; 2t-2u=5n%; v:1g; k-I: W;">5o</U>\');$(\'#2p\').T(j(){$(\'#2p\').q("Q","1B")},j(){$(\'#2p\').q("Q","1A")});$(\'#2p\').T(j(){$(\'#2p\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#2p\').q("Z-Y","m m m m #V 13")})}j 3A(){$(\'1S\').B(\'<U P="2v" w="U" 2q="1Q()" F="16:17; 15:4r; 1U:7F; 1i:5g; 1h:1b; 1k-v:1m; v:1g; 1a: 0.8; 19-1C:1b; 1a: 0.8; z-1x:1P; 2t-2u=5n%; v:1g; k-I:W;">3X</U>\');$(\'#2v\').T(j(){$(\'#2v\').q("Q","1B")},j(){$(\'#2v\').q("Q","1A")});$(\'#2v\').T(j(){$(\'#2v\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#2v\').q("Z-Y","m m m m #V 13")})}j 5b(){n(!$(\'#1e\').2s){$(\'1S\').B(\'<u P="1e" F="16:17; 15:39; 1U: 37; 1h: 28; 1i: 36; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P;"></u>\');$(\'#1e\').B(\'<u P="N" F="16:17; 15:33; 1s:2w; k-I:1s; v:1g;"></u>\');$(\'1S\').B(\'<u P="R" 2q="2a()" F="16: 17; 15:3h; 1U:3g; 1h:1b; 1i:1b; 1k-v:1m; v:1g; 1a: 0.8; 1a:0.8; z-1x:2S; 2t-2u=3c%; k-I:W; 19: 2.G 1I #1L; 19-1C: 3v;">x</u>\');$(\'#R\').T(j(){$(\'#R\').q("Q","1B")},j(){$(\'#R\').q("Q","1A")});$(\'#R\').T(j(){$(\'#R\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#R\').q("Z-Y","m m m m #V 13")});$(\'#1e\').B(\'<u P="1W" F="16:17; 15:28; 1h:1b; 1i:3a; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P; k-I:W; v:1g;"></u>\');$(\'#1W\').k(1q+" / "+1F)}$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();2Z();$(\'#N\').k(\'5o\').q("k-I","W");$(\'#A\').C("H",4s).k("7E 1H 46");$(\'#r\').C("H",4A).k("7D 3F")}j 4s(){n(5P("5Q 1u 5R 1u 45 1c 2L 1H 46?")===1o){2a();$(\'#2p\').o();$(\'#2v\').o();20=1o}}j 4A(){n(5P(\'5Q 1u 5R 1u 45 1c 7C 7B 48/7A? 7z 5X 5t 7y.\')===1o){2P.7x(\'1w\');4n("3F 60 2r 2N 4y. 7w 1H 7u 65\'t 7t, 7q 7p 1H 7o.");2a();4t()}p{4n(\'3F 2g 2H 2N 4y.\')}}3e=1o;j 6d(){$(\'#2I\').o();$(\'#2G\').o();3e=1X;$(\'1S\').B(\'<u P="1e" F="16:17; 15:39; 1U: 37; 1h: 28; 1i: 36; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P;"></u>\');$(\'#1e\').B(\'<u P="N" F="16:17; 15:33; 1s:2w; k-I:1s; v:1g;"></u>\');$(\'1S\').B(\'<u P="R" 2q="2a()" F="16: 17; 15:3h; 1U:3g; 1h:1b; 1i:1b; 1k-v:1m; v:1g; 1a: 0.8; 1a:0.8; z-1x:2S; 2t-2u=3c%; k-I:W; 19: 2.G 1I #1L; 19-1C: 3v;">x</u>\');$(\'#R\').T(j(){$(\'#R\').q("Q","1B")},j(){$(\'#R\').q("Q","1A")});$(\'#R\').T(j(){$(\'#R\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#R\').q("Z-Y","m m m m #V 13")});$(\'#1e\').B(\'<u P="1W" F="16:17; 15:28; 1h:1b; 1i:3a; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P; k-I:W; v:1g;"></u>\');$(\'#1W\').k(1q+" / "+1F)}j 5U(){n(2Y!==1o&&20!==1o){$(\'1S\').B(\'<u P="2I" 2q="6d()" F="16:17; 15:4r; 1U: 7n; 1h: 1b; 1i: 1b; 1k-v: 4l; 19-1C:1b; 1a: 0.8; z-1x: 1P; 2t-2u=7m%; v: 1I 4l; k-I: W;">!</u>\');$(\'#2I\').T(j(){$(\'#2I\').q("Q","1B")},j(){$(\'#2I\').q("Q","1A")});3e=1X;$(\'#2I\').C("H",3y)}p{D.E("7j 4B 7i 18 4C 4g 2o 18 7h 1H 46.")}}j 2a(){n(2Y!==1o){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();$(\'#1e\').o();$(\'#R\').o();$(\'#2G\').o();3e=1o}}7g=1X;j 1Q(){$(\'#2G\').o();n(!$(\'#1e\').2s){$(\'1S\').B(\'<u P="1e" F="16:17; 15:39; 1U: 37; 1h: 28; 1i: 36; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P;"></u>\');$(\'#1e\').B(\'<u P="N" F="16:17; 15:33; 1s:2w; k-I:1s;v:1g;"></u>\');$(\'1S\').B(\'<u P="R" 2q="2a()" F="16: 17; 15:3h; 1U:3g; 1h:1b; 1i:1b; 1k-v:1m; v:1g; 1a: 0.8; z-1x:2S; 2t-2u=3c%; k-I:W; 19: 2.G 1I #1L; 19-1C: 3v;">x</u>\');$(\'#R\').T(j(){$(\'#R\').q("Q","1B")},j(){$(\'#R\').q("Q","1A")});$(\'#R\').T(j(){$(\'#R\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#R\').q("Z-Y","m m m m #V 13")});$(\'#1e\').B(\'<u P="1W" F="16:17; 15:28; 1h:1b; 1i:3a; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P; k-I:W;v:1g;"></u>\');$(\'#1W\').k(1q+" / "+1F)}$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();n(4x.7f===\'7e 7d\'){3o();$(\'#1f\').C("H",26).k(\'4m\');$(\'#L\').C("H",3D).k(\'3d\');$(\'#A\').C("H",3y).k(\'7c!\');$(\'#r\').C("H",2a).k(\'6w\')}p{3o();$(\'#1f\').C("H",26).k(\'4m\');$(\'#L\').C("H",3D).k(\'3d\');$(\'#A\').C("H",4H).k(\'7a\');$(\'#r\').C("H",2a).k(\'6w\')}$(\'#N\').k("")}j 26(){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();$(\'#r\').C("H",1Q).k(\'2d 1c 3X\');$(\'#1e\').B(\'<u P="2G" F="16:17; 15:2w; 1s:2w; 1h: 79; 1i: 78; z-1x: 2S; 1a: .8; v:1g; k-I:1s; 77-y:76;"></u>\');4x.75(\'2G\').3f="4o: "+1T+"<1l>1N: "+1q+"/"+1F+"<1l>2E: "+23+"<1l>3l: "+21+"<1l>3m: "+1Z+"<1l>1J: "+1n+"<1l>4F: "+27+"<1l>3P 30 5W: "+2F+"<1l>3P 30 5Y: "+2M+"<1l>4P: "+2l+"<1l>4u: "+2m}j 3D(){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();$(\'#N\').k("6G 1c 1H 3d!");2Z();$(\'#A\').C("H",6H).k(\'74\');$(\'#r\').C("H",1Q).k(\'2d 1c 3X\')}j 6H(){$(\'#A\').o();1q=1F;$(\'#N\').k("1M 72 70 6M!");2W()}j 4H(){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();4D();f=-1;$(\'#L\').C("H",2i).k(\'6Y 1J\');$(\'#A\').C("H",6P).k(\'6V 1J\');$(\'#r\').C("H",1Q).k(\'2d 1c 1Q\');$(\'#N\').k("6G 1c 1H 6S\'s 8A! 6T 1u 6U 6Q 2j 6W 1J 1c 2j 26.")}j 6P(){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();$(\'#r\').C("H",4H).k(\'2d\');$(\'#N\').k("1M 2Q 2r "+1n+" 1J.")}j 2i(){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();n(1n<1){29();f=-1;$(\'#r\').C("H",1Q).k(\'2d\');$(\'#N\').k("5i, 1u 6X 2r "+1n+" 1J, 6O 18 6Z 2h 1. 71 31 73!")}p{f=f+1;38(f){1r 0:4M=1X;4L=1X;4K=1X;4J=1X;$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();3o();$(\'#1f\').C("H",6C).k(\'2E\');$(\'#L\').C("H",6B).k(\'3l\');$(\'#A\').C("H",6A).k(\'3m\');$(\'#r\').C("H",6y).k(\'1N\');$(\'#N\').k("7b 6O 2e 6s 1u 45 1c 6r 1J?");1t;1r 1:3o();$(\'#1f\').C("H",6q).k(\'3E 1 1J\');$(\'#L\').C("H",6o).k(\'3E 2 1J\');$(\'#A\').C("H",6m).k(\'3E 3 1J\');$(\'#r\').C("H",6k).k(\'3E 4 1J\');$(\'#N\').k("7k 7l 1J 6s 1u 45 1c 6r?");1t;1r 2:2Z();$(\'#A\').C("H",2i).k(\'32\');$(\'#r\').C("H",1Q).k(\'2d 1c 1Q\');f=-1;1t;3G:2z 2A 1O("5r 1J 7r 1c 7s 67 a 4h. (1O 64: 7v)");}}}j 6C(){4M=1o;2i()}j 6B(){4L=1o;2i()}j 6A(){4K=1o;2i()}j 6y(){4J=1o;2i()}j 6q(){1v=1;34()}j 6o(){1v=2;34()}j 6m(){1v=3;34()}j 6k(){1v=4;34()}j 34(){$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();$(\'#r\').C("H",2i).k(\'2d\');n(4M===1o){n(1v>1n){$(\'#N\').k("3S 18 3T 2h 1u 2Q 2r!");f=0}p{23=23+1v;1n=1n-1v;$(\'#N\').k("3Y 40 "+1v+" 44 1c 2j 2E 2e.");f=1}}p n(4L===1o){n(1v>1n){$(\'#N\').k("3S 18 3T 2h 1u 2Q 2r!");f=0}p{21=21+1v;1n=1n-1v;$(\'#N\').k("3Y 40 "+1v+" 44 1c 2j 3l 2e.");f=1}}p n(4K===1o){n(1v>1n){$(\'#N\').k("3S 18 3T 2h 1u 2Q 2r!");f=0}p{1Z=1Z+1v;1n=1n-1v;$(\'#N\').k("3Y 40 "+1v+" 44 1c 2j 3m 2e.");f=1}}p n(4J===1o){n(1v>1n){$(\'#N\').k("3S 18 3T 2h 1u 2Q 2r!");f=0}p{1F=1F+1v*2;1n=1n-1v;1q=1F;$(\'#N\').k("3Y 40 "+1v*2+" 44 1c 2j 1N 2e. 1N 6M.");f=1}}}j 4t(){n(3L 2P.1w==="3N"){2Y=1o;n(!$(\'#1e\').2s){$(\'1S\').B(\'<u P="1e" F="16:17; 15:39; 1U: 37; 1h: 28; 1i: 36; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P;"></u>\');$(\'#1e\').B(\'<u P="N" F="16:17; 15:33; 1s:2w; k-I:1s;v:1g;"></u>\');$(\'1S\').B(\'<u P="R" 2q="2a()" F="16: 17; 15:3h; 1U:3g; 1h:1b; 1i:1b; 1k-v:1m; v:1g; 1a: 0.8; 1a:0.8; z-1x:2S; 2t-2u=3c%; k-I:W; 19: 2.G 1I #1L; 19-1C: 3v;">X</u>\');$(\'#R\').T(j(){$(\'#R\').q("Q","1B")},j(){$(\'#R\').q("Q","1A")});$(\'#R\').T(j(){$(\'#R\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#R\').q("Z-Y","m m m m #V 13")});$(\'#1e\').B(\'<u P="1W" F="16:17; 15:28; 1h:1b; 1i:3a; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P; k-I:W;v:1g;"></u>\');$(\'#1W\').k(1q+" / "+1F)}l=-1;$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();$(\'#r\').C("H",5N).k(\'32\');$(\'#N\').k("3W 7G 1u 7H\'t 7I 4p 7J. 5e\'s 3H 1u 4T!")}p{D.E("6e: "+3L(2P.1w)+". 3W 65\'t 7N 3N 2B 3x 2g 2N 7Q.");n(20!==1o){3z();3A()}p{D.E("7R 18 3u 49 2o.")}}}j 5N(){l=l+1;38(l){1r 0:$(\'#N\').k("5e\'s 7S 2j 26, "+52+"!");1t;1r 1:1n=6I;$(\'#N\').k("1M 2r "+1n+" 1J 1c 6Q 2C 2j 26. 7T: 1 3t 2C 1N 5s 7V +2 1N.");1T=1;23=1;21=1;1Z=1;1q=10;1F=10;27=0;2l=0;2m=0;1t;1r 2:l=-1;2Y=1X;3A();3z();2i();1t;3G:l=-1;2z 2A 1O(\'35 46 3s 67 a 4h. (1O 64: 7X)\');}}j 3y(){$(\'#2G\').o();n(!$(\'#1e\').2s){$(\'1S\').B(\'<u P="1e" F="16:17; 15:39; 1U: 37; 1h: 28; 1i: 36; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P;"></u>\');$(\'#1e\').B(\'<u P="N" F="16:17; 15:33; 1s:2w; k-I:1s;v:1g;"></u>\');$(\'1S\').B(\'<u P="R" 2q="2a()" F="16: 17; 15:3h; 1U:3g; 1h:1b; 1i:1b; 1k-v:1m; v:1g; 1a: .8; z-1x:2S; 2t-2u=3c%; k-I:W; 19: 2.G 1I #1L; 19-1C: 3v;">X</u>\');$(\'#R\').T(j(){$(\'#R\').q("Q","1B")},j(){$(\'#R\').q("Q","1A")});$(\'#R\').T(j(){$(\'#R\').q("Z-Y","m m G 1D #V 13")},j(){$(\'#R\').q("Z-Y","m m m m #V 13")});$(\'#1e\').B(\'<u P="1W" F="16:17; 15:28; 1h:1b; 1i:3a; 1k-v: 1m; 19: 2.G 1I #1L; 19-1C: 1b; 1a: .8; z-1x: 1P; k-I:W;v:1g;"></u>\');$(\'#1W\').k(1q+" / "+1F)}$(\'#2G\').o();$(\'#2I\').o();$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();2K=e.g(e.h()*(e.g(1T*0.8)))+(((e.g(1T*1.2-1T))*2)+1);S a=4q[e.g(e.h()*4q.2s)];n(1q<=0){2Z();$(\'#N\').k("1M 5X 2y 7Z 80 1u\'81 6u! 1M 60 83 1c 1H 3d.");$(\'#A\').C("H",3D).k(\'84 1c 1H 3d\');$(\'#r\').C("H",1Q).k(\'2d\')}p{6n(a);4Q()}}j 4Q(){D.E("4Q() 18 2X 4C.");D.E("2D\'s w 18 \'"+w+"\'.");n(w===\'1j\'){2f=[\'1E\',\'1E\',\'1K\',\'1K\',\'2b\',\'1G\',\'1G\']}p n(w===\'8d\'){2f=[\'1E\',\'1E\',\'1E\',\'1K\',\'1K\',\'2b\',\'1G\',\'1G\']}p n(w===\'8e\'){2f=[\'1E\',\'1E\',\'1K\',\'1K\',\'1K\',\'2b\',\'1G\',\'1G\']}p n(w===\'5T\'){2f=[\'1E\',\'1E\',\'1K\',\'1K\',\'2b\',\'2b\',\'2b\',\'1G\',\'1G\']}p n(w===\'5S\'){2f=[\'1E\',\'1E\',\'1K\',\'1K\',\'2b\',\'1G\',\'1G\',\'1G\']}p n(w===\'8f\'){2f=[\'1E\',\'1E\',\'1K\',\'1K\',\'1K\',\'2b\',\'1G\',\'1G\',\'1G\']}p n(w===\'5K\'){2f=[\'1E\',\'1E\',\'1E\',\'1K\',\'2b\',\'1G\']}p{D.E("2O 3r 5C 8k 1H 1Y w.")}1z=2K-1;n(2K<1){2K=1;D.E("2D 5z 18 47 1, 3x 2x 2g 2N 3H 1c 1.")}p{D.E("2D 5z 18 2H 47 1.")}3j()}j 3j(){D.E("3j() 18 2X 4C.");3i=2f[(e.g(e.h()*2f.2s))];n(1z<1){D.E("8r 8s 1Y 26.");1z=0;8t=K;29();$(\'#N\').k("1M 8v "+1d+" "+14+"!");$(\'#r\').C("H",2y).k(\'3k 2y!\')}p{n(3i===\'1E\'){M=M+1;1z=1z-1;D.E("4b a 3t 2C M 2e. 4a 1z: "+1z)}p n(3i===\'1K\'){O=O+1;1z=1z-1;D.E("4b a 3t 2C O 2e. 4a 1z: "+1z)}p n(3i===\'2b\'){J=J+1;1z=1z-1;D.E("4b a 3t 2C J 2e. 4a 1z: "+1z)}p n(3i===\'1G\'){K=K+2;1z=1z-1;D.E("4b a 3t 2C K 2e. 4a 1z: "+1z)}p{2z 2A 1O("2O 3r 5C. (1O 3q: 8E)");}D.E("8F 2X 8G 3j().");3j()}}j 2y(){D.E("1y 8I 3b.");$(\'#N\').k(\'\');4G=(e.g(e.h()*((23*1.5)+1)))+(23/2);3B=(e.g(e.h()*((M*1.5)+1)))+(M/2);d=-1;2V=1X;$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();4D();$(\'#L\').C("H",57).k(\'2E\');$(\'#A\').C("H",55).k(\'4S\');$(\'#r\').C("H",6N).k(\'8O\')}j 57(){D.E("1y 2g 4w 1c 2E.");$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();n(1Z>J){D.E("1y 18 6J 2h 1Y.");d=0;3C()}p n(1Z<J){D.E("1y 18 6p 2h 1Y.");d=1;2T()}p n(1Z===J){2J=e.g(e.h()*2);D.E("1y 18 8U 8V 8W 1Y. ("+2J+")");n(2J===0){D.E("3W 2g 2N 5F 5D 2o 18 6J 2h 1Y.");d=0;3C()}p n(2J===1){D.E("3W 2g 2N 5F 5D 2o 18 6p 2h 1Y.");d=1;2T()}}}j 55(){D.E("1y 2g 4w 1c 4S.");$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();2V=1o;D.E("1y\'s 4c 3b 18 3H 1c: "+2V);2T()}j 6N(){D.E("1y 2g 4w 1c 4d.");$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();n(e.91(e.h())===1){D.E("1y 2g 5x 5w.");$(\'#N\').k("1M 5x 5w!");$(\'#r\').C("H",1Q).k(\'2d 1c 3X\')}p{D.E("1y 94 1c 4d.");d=0;$(\'#N\').k("1M 95 1c 4d 56 96 C a 97!");$(\'#r\').C("H",2T).k(\'32\')}}j 3C(){D.E("1y 18 2X 98.");$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();c=-1;2k=4G-O;n(2k<1){D.E("30 3n "+2k+" 2B 3n 3H 1c 1.");2k=1}K=K-2k;2F=2F+2k;D.E("1y 99 "+2k+" 9a. 2D\'s 5u 1N: "+K);$(\'#N\').k("1M 9c 1H "+14+" 2B 5a 4v "+2k+" 4j!");$(\'#r\').C("H",3U).k(\'32\')}j 6i(){D.E("9h 1Y\'s 1N.");n(K<=0){D.E("2D\'s 1N 18 47 0.");$(\'#N\').k("1M 9i 1H 1Y! 6g!");2l=2l+1}p{D.E("2D\'s 1N 18 2H 47 0. 6f 1c 4z 5O.");c=6;3U()}}j 3U(){D.E("3U");c=c+1;38(c){1r 0:6i();1t;1r 1:3p.9n(5j);$(\'#N\').k("1M 4I "+3p[0]+" 1n!");1n=1n+3p[0];3p.9p();1t;1r 2:27=27+2*(M+O+J+2K);$(\'#N\').k("1M 4I "+(M+O+J+2K)*2+" 9q!");4N=e.9r((1T+1),2)*6x;n(27>=4N){c=c+1}1t;1r 3:c=-1;1Q();1t;1r 4:$(\'#N\').k("6g! 1M 9s 4T!");1T=1T+1;1t;1r 5:$(\'#N\').k("1M 4I 1 1J!");1n=1n+1;c=2;1t;1r 7:D.E("5E 5B n 1Y 4g 2o 3r 4B.");n(d===0){D.E("1y 3r 4B, 3x 2x 18 1H 1Y\'s 9v.");2T()}p n(d===1){D.E("1y 3r 9w, 3x 1H 2o 9x 9y 1H 4z 9z.");2y()}p{2z 2A 1O("2O 3s 3w a 3R 2B 42 43 31. (1O 3q: 9E)");}1t;3G:2z 2A 1O("2O 3s 3w a 3R 2B 42 43 31. (1O 3q: 9F)");}}j 2T(){D.E("9G 1Y\'s 2y 3b.");$(\'#L\').o();$(\'#A\').o();$(\'#r\').o();$(\'#1f\').o();29();c=-1;n(2V===1o){D.E("1y 18 4c.");2n=3B-21*1.2}p n(2V===1X){D.E("1y 18 2H 4c.");2n=3B-21}n(2n<1){2n=1}2M=2M+2n;1q=1q-2n;2W();D.E("2D\'s 4j 3n "+2n+". 1y\'s 5u 1N 18 "+1q);$(\'#N\').k("35 "+14+" 5a 1u 4v "+2n+" 4j!");$(\'#r\').C("H",3M).k(\'32\')}j 5q(){D.E("5E 5B 2o\'s 1N.");n(1q<=0){D.E("1y 18 6u.");$(\'#N\').k("1M 9J!");2m=2m+1}p{D.E("1y 18 9K 9L. 6f 1c 4z 5O.");c=c+1;3M()}}j 3M(){D.E("3M");c=c+1;38(c){1r 0:5q();1t;1r 1:1Q();1t;1r 2:n(d===0||2V===1o){2y()}p n(d===1){3C()}p{2z 2A 1O("2O 3s 3w a 3R 2B 42 43 31. (1O 3q: 9M)");}1t;3G:2z 2A 1O("2O 3s 3w a 3R 2B 42 43 31. (1O 3q: 9N)");}}j 6n(a){n(a===\'6a\'){M=(e.g(e.h()*3))+2;O=(e.g(e.h()*2))+0;J=(e.g(e.h()*3))+1;K=(e.g(e.h()*3))+10;w=\'1j\';1d=\'a\';14=\'9O\'}p n(a===\'6l\'){M=(e.g(e.h()*4))+1;O=(e.g(e.h()*3))+1;J=(e.g(e.h()*0))+2;K=(e.g(e.h()*25))+1;w=\'1j\';1d=\'a\';14=\'6z\'}p n(a===\'6b\'){M=(e.g(e.h()*2))+2;O=(e.g(e.h()*3))+0;J=(e.g(e.h()*2))+1;K=(e.g(e.h()*5))+10;w=\'5S\';1d=\'a\';14=\'9P 6t\'}p n(a===\'69\'){M=(e.g(e.h()*3))+1;O=(e.g(e.h()*3))+0;J=(e.g(e.h()*0))+3;K=(e.g(e.h()*6))+7;w=\'5T\';1d=\'a\';14=\'9R 9S\'}p n(a===\'66\'){M=(e.g(e.h()*2))+3;O=(e.g(e.h()*2))+0;J=(e.g(e.h()*2))+1;K=(e.g(e.h()*3))+8;w=\'1j\';1d=\'a\';14=\'9T 6z\'}p n(a===\'63\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'9V\'}p n(a===\'62\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'9W\'}p n(a===\'5m\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'9X\'}p n(a===\'51\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'9Y\'}p n(a===\'5A\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'9Z\'}p n(a===\'6c\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'6t a0\'}p n(a===\'5G\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a1\'}p n(a===\'5y\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a2\'}p n(a===\'5p\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a3\'}p n(a===\'6K\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a4\'}p n(a===\'5M\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a5\'}p n(a===\'5L\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a6\'}p n(a===\'5l\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a7\'}p n(a===\'5V\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a8\'}p n(a===\'5I\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'a9\'}p n(a===\'6v\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'aa\'}p n(a===\'6F\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ab\'}p n(a===\'4R\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ac\'}p n(a===\'4Y\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ad\'}p n(a===\'50\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ae\'}p n(a===\'58\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'af\'}p n(a===\'59\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ag\'}p n(a===\'5c\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ah\'}p n(a===\'5d\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'ai\'}p n(a===\'5h\'){M=(e.g(e.h()*0))+1;O=(e.g(e.h()*0))+1;J=(e.g(e.h()*0))+1;K=(e.g(e.h()*0))+10;w=\'1j\';1d=\'1p\';14=\'aj\'}p n(a===\'3V\'){M=(e.g(e.h()*6))+2;O=(e.g(e.h()*0))+0;J=(e.g(e.h()*3))+1;K=(e.g(e.h()*4))+4;w=\'5K\';1d=\'\';14=\'ak\'}}4t();',62,641,'||||||||||||||Math||floor|random||function|text||0px|if|remove|else|css|btn3|||div|color|type||||btn2|append|on|console|log|style|5px|click|align|spd|hp|btn1|atk|mainWindowText|def|id|cursor|closeButton|var|hover|button|FFFFFF|center||shadow|box||||inset|monsterName|top|position|absolute|is|border|opacity|20px|to|prefixx|mainWindow|btn4|white|height|width|Balanced|background|br|black|bp|true|an|userHp|case|left|break|you|bpPlus|pPG|index|User|mDisPoints|auto|pointer|radius|1px|matk|userMaxHp|mhp|the|solid|BP|mdef|2FC7FB|You|HP|Error|100|menu|messages|body|userLevel|right|chat|hpDisp1|false|monster|userSpd|doNotShow|userDef|API|userAtk|30px||stats|userXp|200px|buttons1|mainWindowClose|mspd|240px|Back|stat|mDisSelect|has|than|bpDisText|your|lastGivenHit|kills|deaths|lastReceivedHit|user|settingsBtn|onclick|have|length|font|size|menuBtn|3px|it|battle|throw|new|and|in|Monster|Attack|totalDmgDone|statTxt|not|miniGame|ans|monsterLevel|hide|totalDmgTaken|been|Something|localStorage|currently|PlugRPG|101|battleM|unhide|battleD|checkHp|now|initial|buttons2|Damage|back|Continue|12px|bpAdd|The|250px|355px|switch|90px|120px|state|170|Clinic|notShown|innerHTML|349px|84px|mDisStatSelect|monsterLevelStats|To|Defense|Speed|was|buttons4|bpArray|ID|went|jumped|point|hidden|10px|from|therefore|monsterEncounter|settingsButton|menuButton|monsterDmg|battleU|clinic|Add|Data|default|set|bomb|165px|4000|typeof|battleTxtM|undefined|setTimeout|Total|plugRPG|bridge|This|more|battleTxtU|idI00|It|Menu|Successfully|table|added|tr|never|came|points|want|game|under|data|by|Remaining|Added|defending|flee|message|slice|or|window|uid|damage|Nuvm|red|Stats|alert|Level|this|monsters0|55px|hidepPG|initialLoad|Deaths|for|chosen|document|cleared|next|clearData|first|running|buttons3|135px|XP|userDmg|bpDis|gained|addHp|addSpd|addDef|addAtk|nextLvl|getUser|Kills|monsterStats|id22|Defend|up|sendChat|cmds|username|Ouch|id23|killed|id24|id08|userName||105px|battleDefend|but|battleAttack|id25|id26|hit|settings|id27|id28|Let|credits|100px|id29|Unfortunately|bpGained|cleardata|id17|id07|200|Settings|id13|checkHpU|Your|will|be|remaining|djAdvanceCheck|fled|successfully|id12|level|id09|checking|wrong|that|Now|determined|id11|JSON|id19|sstatstxt|Aggressive|id16|id15|initialLoadTxt|step|confirm|Are|sure|Healthy|Quick|showAlert|id18|Done|cannot|Taken|lsv|should|chatInteract|id06|id05|code|doesn|id04|out|hideShow|id03|id00|id02|id10|newWindow|Type|Proceeding|Congratulations|show|checkHpM|again|bpPlus4|id01|bpPlus3|monsterData|bpPlus2|slower|bpPlus1|add|do|Baby|dead|id20|Close|xpModifier|bpHp|Chicken|bpSpd|bpDef|bpAtk|Satori|Komeiji|id21|Welcome|userMaxHeal|initialBp|faster|id14|commands|healed|battleFlee|which|bpShow|distribute|does|sorcerer|Here|can|Current|accumulated|only|Distribute|less|fully|Come|were|later|Rest|getElementById|scroll|overflow|244px|160px|Hut|In|Battle|Mode|Maintenance|title|maintenanceMode|hiding|start|Either|How|much|500|350px|page|refresh|please|decided|jump|restart|script|bDTd|If|removeItem|restored|They|progress|current|clear|Clear|Hide|500px|seems|haven|played|before|400px|75px|monstersA|return|idA0|idA1|ignored|Game|determine|Note|idA2|give|idA3|iLS|idA4|monsters|when|re|idA5|go|Go|idA6|idA7|idA8|idA9|setInterval|stringify|beforeunload|addEventListener|Offensive|Defensive|Tanky|getItem|parse|Opera|Safari|with|Firefox|Chrome|of|version|modern|use|Finished|distributing|mHp|Please|encountered|saved|storage|local|support|hut|browser|Storage|nearly|mLS|Should|loop|away|selection|got|surprisingly|exploded|crowd|into|Flee|threw|bombChat|shown|already|me|same|speed|as|see|hi|say|time|round|some|Take|failed|tried|tripped|rock|attacking|dealt|dmg|developped|attacked|Commands|CHAT_COMMAND|DEV|clickable|Checking|defeated|un|getElementsByClassName|chatBomb|5010640|push|prbomb|pop|xp|pow|levelled|5010460|encounter|turn|last|must|choose|action|400|My|prstats|monsters1|BU|CU|Entering|CHAT|ADVANCE|died|still|alive|BM|CM|Slime|Dead|10000|Road|Runner|Dancing|monsters2|undefined05|undefined06|undefined07|undefined08|undefined09|Golem|undefine11|undefined12|undefined13|undefined14|undefined15|undefined16|undefined17|undefined18|undefined19|undefined20|undefined21|undefined22|undefined23|undefined24|undefined25|undefined26|undefined27|undefined28|undefined29|Kaboom0'.split('|'),0,{}))
+//All work and code is hereby published by Nuvm.
+
+//#localStorage stats
+(function(){setTimeout(function(){checkIfReady = setInterval(function(){if(document.getElementsByClassName('loading').length !== 1){
+      start();
+    }
+  }, 100);
+}, 2000);
+var userName;
+var version = 'Alpha 0.1';
+function start(){
+  $('#messages').append('<center class="cm log mention">PlugRPG version ' + version + ' initialized!');
+  userName = username;
+}
+var userLevel = 1;
+var userAtk = 1;
+var userDef = 1;
+var userSpd = 1;
+var userHp = 10;
+var userMaxHp = 10;
+var userXp = 0;
+var bp = 0;
+var kills = 0;
+var deaths = 0;
+var totalDmgDone = 0;
+var totalDmgTaken = 0;
+//var userName = 'Nuvm';
+
+var monsterLevel;
+
+//#vars
+
+var monstersA = ['idA0', 'idA1', 'idA2', 'idA3', 'idA4', 'idA5', 'idA6', 'idA7', 'idA8', 'idA9'];
+var monsters0 = ['id00', 'id01', 'id02', 'id03', 'id04', 'id05', 'id06', 'id07', 'id08', 'id09', 'idI00'];
+var monsters1 = ['id10', 'id11', 'id12', 'id13', 'id14', 'id15', 'id16', 'id17', 'id18', 'id19', 'idI00'];
+var monsters2 = ['id20', 'id21', 'id22', 'id23', 'id24', 'id25', 'id26', 'id27', 'id28', 'id29', 'idI00'];
+var bpGained = ((Math.floor(Math.random() * 100) / 10000) * (Math.floor(Math.random() * 10)));
+var bpArray = [];
+var xpModifier = 53;
+var nextLvl;
+var initialBp = 2;
+var lastGivenHit;
+var lastReceivedHit;
+var monsterDmg;
+var userDmg;
+var initial;
+var doNotShow;
+
+//#varsContinue
+
+var f=-1;
+var l=-1;
+var c=-1;
+var d=-1;
+
+//#plugAPI
+
+API.on(API.events.ADVANCE,djAdvanceCheck);
+function djAdvanceCheck(){
+  if(notShown!==false){
+    showAlert();
+  }
+}
+/*API.on(API.events.CHAT,chatInteract);
+function chatInteract(data){
+  this.data = data;
+  if(data.message.slice(0,8) === '!prstats' && data.uid === API.getUser().id){
+    API.sendChat("My plugRPG Stats:");
+    setTimeout(function(){API.sendChat("Level: " + userLevel + ", HP: " + userHp + "/" + userMaxHp + ", Attack: " + userAtk + ", Defense: " + userDef + ", Speed: " + userSpd + ", XP: " + userXp + ", Kills: " + kills + ", Deaths: " + deaths);},400);
+  } else if(data.message.slice(0,10) === '!encounter' && data.uid === 5010460){
+    monsterEncounter();
+  } else if(data.message.slice(0,6) === '!prbomb' && data.uid === 5010640){
+    chatBomb();
+  }
+  if(doNotShow!==true){
+    var names = document.getElementsByClassName("un clickable");
+    for(var i = 0; i < names.length; i++){
+      if(names[i].innerHTML === 'Satori Komeiji'){
+        names[i].innerHTML = 'Nuvm'+'【plugRPG DEV】';
+      }
+    }
+  }
+}
+API.on(API.CHAT_COMMAND,commands);
+function commands(data){
+  this.data = data;
+  switch(data){
+    case'/cmds':
+      $('#chat-messages').append('<table><tr>Commands:<br>/stats<br>/cmds<br>/credits<br>/hide<br>/unhide<br>/cleardata</tr></table>');
+    break;
+    case'/credits':
+      $('#chat-messages').append('<div>PlugRPG was developped by Nuvm (Satori Komeiji). Take some time to say hi if you see me by ;)</div>');
+    break;
+    case'/stats':
+      $('#chat-messages').append('<table><tr id="sstatstxt"></tr></table>');
+      $('#sstatstxt').innerHTML=API.getUser().username+"'s stats in plugRPG:<br>Level: "+userLevel+"<br>HP: "+userHp+"/"+userMaxHp+"<br>Attack: "+userAtk+"<br>Defense: "+userDef+"<br>Speed: "+userSpd+"<br>BP: "+bp+"<br>XP: "+userXp+"<br>Total Damage Done: "+totalDmgDone+"<br>Total Damage Taken: "+totalDmgTaken+"<br>Kills: "+kills+"<br>Deaths: "+deaths;
+    break;
+    case'/hide':
+      if(doNotShow!==true){
+        hidepPG();
+        $('#chat-messages').append('<div style="text-align:center;">PlugRPG is now hidden. To show it again, type /unhide.</div>');
+      } else {
+        $('#chat-messages').append('<div style="text-align:center;">PlugRPG is already hidden. To show it again, type /unhide.</div>');
+      }
+    break;
+    case'/unhide':
+      if(doNotShow===true){
+        doNotShow=false;
+        settingsButton();
+        menuButton();
+        $('#chat-messages').append('<div style="text-align:center;">PlugRPG is now shown. To hide it, type /hide.</div>');
+      } else {
+        $('#chat-messages').append('<div style="text-align:center;">PlugRPG is not hidden. To hide it, type /hide.</div>');
+      }
+    break;
+    case'/cleardata':
+      clearData();
+      $('#chat-messages').append('<div style="text-align:center;">Data was cleared by user.</div>');
+    break;
+  }
+}
+function bombChat(){
+  $('#chat-messages').append('<div style="text-align:center;">Nuvm threw a bomb into the crowd!</div>');
+  ans = Math.floor(Math.random()*3);
+  if(ans>1){
+    setTimeout(function(){$('#chat-messages').append('<div style="text-align:center;">Ouch! The bomb killed you!</div>');
+    userHp=0;
+    checkHp();},4000);
+  } else if(ans<1){
+    setTimeout(function(){$('#chat-messages').append('<div style="text-align:center;">The bomb exploded but you surprisingly got away!</div>');},4000);
+  } else {
+    setTimeout(function(){$('#chat-messages').append('<div style="text-align:center;">Ouch! The bomb nearly killed you!</div>');
+    userHp=1;
+    checkHp();},4000);
+  }
+}*/
+
+//#checks
+
+if(typeof(Storage) === "undefined"){
+  alert("Unfortunately, your browser does not support local storage. Your data on plugRPG will not be saved. Please use a modern version of Chrome, Firefox, Safari or Opera.");
+}
+if(typeof localStorage.PlugRPG!=="undefined"){
+  PlugRPG = JSON.parse(localStorage.getItem('PlugRPG'));
+  userLevel = PlugRPG[0];
+  userAtk = PlugRPG[1];
+  userDef = PlugRPG[2];
+  userSpd = PlugRPG[3];
+  userHp = PlugRPG[4];
+  userMaxHp = PlugRPG[5];
+  userXp = PlugRPG[6];
+  bp = PlugRPG[7];
+  kills = PlugRPG[8];
+  deaths = PlugRPG[9];
+  totalDmgDone = PlugRPG[10];
+  totalDmgTaken = PlugRPG[11];
+  doNotShow = PlugRPG[12];
+}
+window.addEventListener("beforeunload",function(){
+  if(initial!==true){
+    lsv = [userLevel,userAtk,userDef,userSpd,userHp,userMaxHp,userXp,bp,kills,deaths,totalDmgDone,totalDmgTaken,doNotShow];
+    localStorage.PlugRPG = JSON.stringify(lsv);
+  }
+});
+function checkHp(){
+  if($('#hpDisp1').length){
+    $('#hpDisp1').text(userHp + " / " + userMaxHp);
+  }
+}
+setInterval(checkHp,4000);
+/*function state(){
+  if(doNotShow===true){
+    $('#chat-messages').append('<div id="hideShow" style="background-color:red;text-align:center;"></div>');
+    $('#hideShow').innerHTML="<b>PlugRPG is currently hidden. Type '/unhide' to unhide it.</b>";
+  }
+}
+state();*/
+
+//#buttons
+
+/*function btnCloser(){
+  if($('#btn1').length){
+    $('#btn1').remove();
+    console.log("Btn1 removed.");
+  }
+  if($('#btn2').length){
+    $('#btn2').remove();
+    console.log("Btn2 removed.");
+  }
+  if($('#btn3').length){
+    $('#btn3').remove();
+    console.log("Btn3 removed.");
+  }"0px 0px 5px 1px #FFFFFF inset"
+  if($('#btn4').length){
+    $('#btn4').remove();
+    console.log("Btn4 removed.");
+  }
+}*/
+function buttons1(){
+  $('#mainWindow').append('<button id="btn3" type="button" style="position:absolute; top:165px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#btn3').hover(function(){$('#btn3').css("cursor","pointer");},function(){$('#btn3').css("cursor","auto");});
+  $('#btn3').hover(function(){$('#btn3').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn3').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+}
+function buttons2(){
+  $('#mainWindow').append('<button id="btn2" type="button" style="position:absolute; top:135px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#mainWindow').append('<button id="btn3" type="button" style="position:absolute; top:165px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#btn2').hover(function(){$('#btn2').css("cursor","pointer");},function(){$('#btn2').css("cursor","auto");});
+  $('#btn2').hover(function(){$('#btn2').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn2').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  $('#btn3').hover(function(){$('#btn3').css("cursor","pointer");},function(){$('#btn3').css("cursor","auto");});
+  $('#btn3').hover(function(){$('#btn3').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn3').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+}
+function buttons3(){
+  $('#mainWindow').append('<button id="btn1" type="button" style="position:absolute; top:105px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#mainWindow').append('<button id="btn2" type="button" style="position:absolute; top:135px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#mainWindow').append('<button id="btn3" type="button" style="position:absolute; top:165px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#btn1').hover(function(){$('#btn1').css("cursor","pointer");},function(){$('#btn1').css("cursor","auto");});
+  $('#btn1').hover(function(){$('#btn1').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn1').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  $('#btn2').hover(function(){$('#btn2').css("cursor","pointer");},function(){$('#btn2').css("cursor","auto");});
+  $('#btn2').hover(function(){$('#btn2').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn2').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  $('#btn3').hover(function(){$('#btn3').css("cursor","pointer");},function(){$('#btn3').css("cursor","auto");});
+  $('#btn3').hover(function(){$('#btn3').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn3').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+}
+function buttons4(){
+  $('#mainWindow').append('<button id="btn1" type="button" style="position:absolute; top:105px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#mainWindow').append('<button id="btn2" type="button" style="position:absolute; top:135px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#mainWindow').append('<button id="btn3" type="button" style="position:absolute; top:165px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#mainWindow').append('<button id="btn4" type="button" style="position:absolute; top:75px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;"></button>');
+  $('#btn1').hover(function(){$('#btn1').css("cursor","pointer");},function(){$('#btn1').css("cursor","auto");});
+  $('#btn1').hover(function(){$('#btn1').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn1').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  $('#btn2').hover(function(){$('#btn2').css("cursor","pointer");},function(){$('#btn2').css("cursor","auto");});
+  $('#btn2').hover(function(){$('#btn2').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn2').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  $('#btn3').hover(function(){$('#btn3').css("cursor","pointer");},function(){$('#btn3').css("cursor","auto");});
+  $('#btn3').hover(function(){$('#btn3').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn3').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  $('#btn4').hover(function(){$('#btn4').css("cursor","pointer");},function(){$('#btn4').css("cursor","auto");});
+  $('#btn4').hover(function(){$('#btn4').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#btn4').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+}
+
+//#buttonsUI
+
+function settingsButton(){
+  $('body').append('<button id="settingsBtn" style="position:absolute; top:55px; right:400px; height: 20px; width: 100px; background-color: black; border-radius:20px; opacity: 0.8; z-index: 100; font-size=200%; color:white; text-align: center;">Settings</button>');
+  $('#settingsBtn').on('click',settings);
+  $('#settingsBtn').hover(function(){$('#settingsBtn').css("cursor","pointer");},function(){$('#settingsBtn').css("cursor","auto");});
+  $('#settingsBtn').hover(function(){$('#settingsBtn').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#settingsBtn').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+}
+function menuButton(){
+  $('body').append('<button id="menuBtn" type="button" style="position:absolute; top:55px; right:500px; width:100px; height:20px; background-color:black; color:white; opacity: 0.8; border-radius:20px; opacity: 0.8; z-index:100; font-size=200%; color:white; text-align:center;">Menu</button>');
+  $('#menuBtn').on('click',menu);
+  $('#menuBtn').hover(function(){$('#menuBtn').css("cursor","pointer");},function(){$('#menuBtn').css("cursor","auto");});
+  $('#menuBtn').hover(function(){$('#menuBtn').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#menuBtn').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+}
+
+//#buttonsFunctions
+
+function settings(){
+  if(!$('#mainWindow').length){
+    $('body').append('<div id="mainWindow" style="position:absolute; top:90px; right: 355px; height: 200px; width: 250px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100;"></div>');
+    $('#mainWindow').append('<div id="mainWindowText" style="position:absolute; top:12px; left:3px; text-align:left; color:white;"></div>');
+    $('body').append('<div id="closeButton" style="position: absolute; top:84px; right:349px; height:20px; width:20px; background-color:black; color:white; opacity: 0.8; opacity:0.8; z-index:101; font-size=170%; text-align:center; border: 2.5px solid #2FC7FB; border-radius: 10px;">x</div>');
+    $('#closeButton').on('click',mainWindowClose);
+    $('#closeButton').hover(function(){$('#closeButton').css("cursor","pointer");},function(){$('#closeButton').css("cursor","auto");});
+    $('#closeButton').hover(function(){$('#closeButton').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#closeButton').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+    $('#mainWindow').append('<div id="hpDisp1" style="position:absolute; top:200px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center; color:white;"></div>');
+    $('#hpDisp1').text(userHp + " / " + userMaxHp);
+  }
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons2();
+  $('#mainWindowText').text('Settings').css("text-align","center");
+  $('#btn2').on("click",hidepPG).text("Hide the game");
+  $('#btn3').on("click",clearData).text("Clear Data");
+}
+function hidepPG(){
+  if(confirm("Are you sure you want to hide the game?")===true){
+    mainWindowClose();
+    $('#settingsBtn').remove();
+    $('#menuBtn').remove();
+    doNotShow=true;
+  }
+}
+function clearData(){
+  if(confirm('Are you sure you want to clear current data/progress? They cannot be restored.')===true){
+    localStorage.removeItem('PlugRPG');
+    alert("Data should have been cleared. If the script doesn't restart, please refresh the page.");
+    mainWindowClose();
+    initialLoad();
+  } else {
+    alert('Data has not been cleared.');
+  }
+}
+/*function notAvailableYet(){
+  if(!$('#mainWindow').length){
+    $('body').append('<div id="mainWindow" style="position:absolute; top:90px; right: 355px; height: 200px; width: 250px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100;"></div>');
+    $('#mainWindow').append('<div id="mainWindowText" style="position:absolute; top:12px; left:3px; text-align:left;"></div>');
+    $('body').append('<div id="closeButton" onclick="mainWindowClose()" style="position: absolute; top:84px; right:349px; height:20px; width:20px; background-color:black; color:white; opacity: 0.8; opacity:0.8; z-index:101; font-size=170%; text-align:center; border: 2.5px solid #2FC7FB; border-radius: 10px;">x</div>');
+    $('#closeButton').hover(function(){$('#closeButton').css("cursor","pointer");},function(){$('#closeButton').css("cursor","auto");});
+    $('#closeButton').hover(function(){$('#closeButton').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#closeButton').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+    $('#mainWindow').append('<div id="hpDisp1" style="position:absolute; top:200px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center;"></div>');
+    $('#hpDisp1').text(userHp + " / " + userMaxHp);
+  }
+  $('#mainWindowText').text("Sorry, this function is not yet available!");
+}*/
+
+//#mainUI
+
+notShown=true;
+function newWindow(){
+  $('#miniGame').remove();
+  $('#statTxt').remove();
+  notShown=false;
+  $('body').append('<div id="mainWindow" style="position:absolute; top:90px; right: 385px; height: 200px; width: 250px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100;"></div>');
+  $('#mainWindow').append('<div id="mainWindowText" style="position:absolute; top:12px; left:3px; text-align:left; color:white;"></div>');
+  $('body').append('<div id="closeButton" style="position: absolute; top:84px; right:379px; height:20px; width:20px; background-color:black; color:white; opacity: 0.8; opacity:0.8; z-index:101; font-size=170%; text-align:center; border: 2.5px solid #2FC7FB; border-radius: 10px;">x</div>');
+  $('#closeButton').on('click',mainWindowClose);
+  $('#closeButton').hover(function(){$('#closeButton').css("cursor","pointer");},function(){$('#closeButton').css("cursor","auto");});
+  $('#closeButton').hover(function(){$('#closeButton').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#closeButton').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+  //$('#mainWindow').append('<button id="battleButton" type="button" onclick="clinicText()" style="position:absolute; top:160px; left:2.5px; width:240px; height:30px; background-color:black; color:white; opacity: 0.8; text-align:center;">Battle!</button>');
+  $('#mainWindow').append('<div id="hpDisp1" style="position:absolute; top:200px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center; color:white;"></div>');
+  $('#hpDisp1').text(userHp + " / " + userMaxHp);
+}
+function showAlert(){
+  if(!initial&&!doNotShow){
+    $('body').append('<div id="miniGame" style="position:absolute; top:55px; right: 350px; height: 20px; width: 20px; background-color: red; border-radius:20px; opacity: 0.8; z-index: 100; font-size=500%; color: solid red; text-align: center;">!</div>');
+    $('#miniGame').hover(function(){$('#miniGame').css("cursor","pointer");},function(){$('#miniGame').css("cursor","auto");});
+    notShown=false;
+    $('#miniGame').on('click',monsterEncounter);
+  } else {
+    console.log("Either first start is running or user is hiding the game.");
+  }
+}
+function mainWindowClose(){
+  if(initial!==true){
+    $('#btn1').remove();   
+    $('#btn2').remove();   
+    $('#btn3').remove();   
+    $('#btn4').remove();
+    $('#mainWindow').remove();
+    $('#closeButton').remove();
+    $('#statTxt').remove();
+    notShown=true;
+  }
+}
+
+//#menu
+
+maintenanceMode=false;
+function menu(){
+  $('#statTxt').remove();
+  if(!$('#mainWindow').length){
+    $('body').append('<div id="mainWindow" style="position:absolute; top:90px; right: 355px; height: 200px; width: 250px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100;"></div>');
+    $('#mainWindow').append('<div id="mainWindowText" style="position:absolute; top:12px; left:3px; text-align:left;color:white;"></div>');
+    $('body').append('<div id="closeButton" style="position: absolute; top:84px; right:349px; height:20px; width:20px; background-color:black; color:white; opacity: 0.8; z-index:101; font-size=170%; text-align:center; border: 2.5px solid #2FC7FB; border-radius: 10px;">x</div>');
+    $('#closeButton').on('click',mainWindowClose);
+    $('#closeButton').hover(function(){$('#closeButton').css("cursor","pointer");},function(){$('#closeButton').css("cursor","auto");});
+    $('#closeButton').hover(function(){$('#closeButton').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#closeButton').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+    $('#mainWindow').append('<div id="hpDisp1" style="position:absolute; top:200px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center;color:white;"></div>');
+    $('#hpDisp1').text(userHp + " / " + userMaxHp);
+  }
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  if(document.title==='Maintenance Mode'){
+    buttons4();
+    $('#btn4').on("click",stats).text('Stats');
+    $('#btn1').on("click",clinic).text('Clinic');
+    $('#btn2').on("click",monsterEncounter).text('Battle!');
+    $('#btn3').on("click",mainWindowClose).text('Close');
+  } else {
+    buttons4();
+    $('#btn4').on("click",stats).text('Stats');
+    $('#btn1').on("click",clinic).text('Clinic');
+    $('#btn2').on("click",bpDis).text('Hut');
+    $('#btn3').on("click",mainWindowClose).text('Close');
+  }
+  $('#mainWindowText').text("");
+}
+
+//#menuItem_Stats
+
+function stats(){
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons1();
+  $('#btn3').on("click",menu).text('Back to Menu');
+  //$('body').append('<div id="statWindow" style="position:absolute; top:90px; right:355px; height: 140px; width: 150px; z-index: 101; opacity: .8;"></div>');
+  $('#mainWindow').append('<div id="statTxt" style="position:absolute; top:3px; left:3px; height: 160px; width: 244px; z-index: 101; opacity: .8; color:white; text-align:left; overflow-y:scroll;"></div>');
+  document.getElementById('statTxt').innerHTML="Level: "+userLevel+"<br>HP: "+userHp+"/"+userMaxHp+"<br>Attack: "+userAtk+"<br>Defense: "+userDef+"<br>Speed: "+userSpd+"<br>BP: "+bp+"<br>XP: "+userXp+"<br>Total Damage Done: "+totalDmgDone+"<br>Total Damage Taken: "+totalDmgTaken+"<br>Kills: "+kills+"<br>Deaths: "+deaths;
+  /*$('#statWindow').append('<div id="statText0" style="position:absolute; top:22px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText1" style="position:absolute; top:37px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText2" style="position:absolute; top:52px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText3" style="position:absolute; top:67px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText4" style="position:absolute; top:82px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText5" style="position:absolute; top:97px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText6" style="position:absolute; top:112px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText7" style="position:absolute; top:127px; left:3px; text-align:left;"></div>');
+  $('#statWindow').append('<div id="statText8" style="position:absolute; top:7px; left:3px; text-align:left;"></div>');
+  $('#statText8').text("Level: " + userLevel);
+  $('#statText0').text("HP: " + userHp + "/" + userMaxHp);
+  $('#statText1').text("Attack: " + userAtk);
+  $('#statText2').text("Defense: " + userDef);
+  $('#statText3').text("Speed: " + userSpd);
+  $('#statText5').text("BP: " + bp);
+  $('#statText4').text("XP: " + userXp);
+  $('#statText6').text("Kills: " + kills);
+  $('#statText7').text("Deaths: " + deaths);*/
+}
+
+//#menuItem_Clinic
+
+function clinic(){
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  $('#mainWindowText').text("Welcome to the Clinic!");
+  buttons2();
+  $('#btn2').on("click",userMaxHeal).text('Rest');
+  $('#btn3').on("click",menu).text('Back to Menu');
+}
+function userMaxHeal(){
+  $('#btn2').remove();
+  userHp = userMaxHp;
+  $('#mainWindowText').text("You were fully healed!");
+  checkHp();
+}
+
+//#menuItem_Hut
+
+function bpDis(){
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons3();
+  f=-1;
+  $('#btn1').on("click",bpDisText).text('Distribute BP');
+  $('#btn2').on("click",bpShow).text('Current BP');
+  $('#btn3').on("click",menu).text('Back to menu');
+  $('#mainWindowText').text("Welcome to the sorcerer's hut! Here you can distribute your accumulated BP to your stats.");
+}
+function bpShow(){
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons1();
+  $('#btn3').on("click",bpDis).text('Back');
+  $('#mainWindowText').text("You currently have " + bp + " BP.");
+}
+function bpDisText(){
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  if(bp<1){
+    buttons1();
+    f=-1;
+    $('#btn3').on("click",menu).text('Back');
+    $('#mainWindowText').text("Unfortunately, you only have " + bp + " BP, which is less than 1. Come back later!");
+  } else {
+    f=f+1;
+    switch(f){
+      case 0:
+        addAtk=false;
+        addDef=false;
+        addSpd=false;
+        addHp=false;
+        $('#btn1').remove();   
+        $('#btn2').remove();   
+        $('#btn3').remove();   
+        $('#btn4').remove();
+        buttons4();
+        $('#btn4').on("click",bpAtk).text('Attack');
+        $('#btn1').on("click",bpDef).text('Defense');
+        $('#btn2').on("click",bpSpd).text('Speed');
+        $('#btn3').on("click",bpHp).text('HP');
+        $('#mainWindowText').text("In which stat do you want to add BP?");
+        break;
+      case 1:
+        buttons4();
+        $('#btn4').on("click",bpPlus1).text('Add 1 BP');
+        $('#btn1').on("click",bpPlus2).text('Add 2 BP');
+        $('#btn2').on("click",bpPlus3).text('Add 3 BP');
+        $('#btn3').on("click",bpPlus4).text('Add 4 BP');
+        $('#mainWindowText').text("How much BP do you want to add?");
+        break;
+      case 2:
+        buttons2();
+        $('#btn2').on("click",bpDisText).text('Continue');
+        $('#btn3').on("click",menu).text('Back to menu');
+        f=-1;
+        break;
+      default:
+        throw new Error("Your BP decided to jump out a window. (Error code: bDTd)");
+    }
+  }
+}
+function bpAtk(){
+  addAtk=true;
+  bpDisText();
+}
+function bpDef(){
+  addDef=true;
+  bpDisText();
+}
+function bpSpd(){
+  addSpd=true;  
+  bpDisText();
+}
+function bpHp(){
+  addHp=true;
+  bpDisText();
+}
+function bpPlus1(){
+  bpPlus=1;
+  bpAdd();
+}
+function bpPlus2(){
+  bpPlus=2;
+  bpAdd();
+}
+function bpPlus3(){
+  bpPlus=3;
+  bpAdd();
+}
+function bpPlus4(){
+  bpPlus=4;
+  bpAdd();
+}
+function bpAdd(){
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons1();
+  $('#btn3').on("click",bpDisText).text('Back');
+  if(addAtk===true){
+    if(bpPlus>bp){
+      $('#mainWindowText').text("This is more than you currently have!");
+      f=0;
+    } else {
+      userAtk = userAtk + bpPlus;
+      bp = bp - bpPlus;
+      $('#mainWindowText').text("Successfully added " + bpPlus + " points to your Attack stat.");
+      f=1;
+    }
+  } else if(addDef===true){
+    if(bpPlus>bp){
+      $('#mainWindowText').text("This is more than you currently have!");
+      f=0;
+    } else {
+      userDef = userDef + bpPlus;
+      bp = bp - bpPlus;
+      $('#mainWindowText').text("Successfully added " + bpPlus + " points to your Defense stat.");
+      f=1;
+    }
+  } else if(addSpd===true){
+    if(bpPlus>bp){
+      $('#mainWindowText').text("This is more than you currently have!");
+      f=0;
+    } else {
+      userSpd = userSpd + bpPlus;
+      bp = bp - bpPlus;
+      $('#mainWindowText').text("Successfully added " + bpPlus + " points to your Speed stat.");
+      f=1;
+    }
+  } else if(addHp===true){
+    if(bpPlus>bp){
+      $('#mainWindowText').text("This is more than you currently have!");
+      f=0;
+    } else {
+      userMaxHp = userMaxHp + bpPlus * 2;
+      bp = bp - bpPlus;
+      userHp = userMaxHp;
+      $('#mainWindowText').text("Successfully added " + bpPlus*2 + " points to your HP stat. HP healed.");
+      f=1;
+    }
+  }
+}
+
+//#initialLoad
+
+function initialLoad(){
+  if(typeof localStorage.PlugRPG==="undefined"){
+    initial=true;
+    if(!$('#mainWindow').length){
+      $('body').append('<div id="mainWindow" style="position:absolute; top:90px; right: 355px; height: 200px; width: 250px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100;"></div>');
+      $('#mainWindow').append('<div id="mainWindowText" style="position:absolute; top:12px; left:3px; text-align:left;color:white;"></div>');
+      $('body').append('<div id="closeButton" style="position: absolute; top:84px; right:349px; height:20px; width:20px; background-color:black; color:white; opacity: 0.8; opacity:0.8; z-index:101; font-size=170%; text-align:center; border: 2.5px solid #2FC7FB; border-radius: 10px;">X</div>');
+      $('#closeButton').on('click',mainWindowClose);
+      $('#closeButton').hover(function(){$('#closeButton').css("cursor","pointer");},function(){$('#closeButton').css("cursor","auto");});
+      $('#closeButton').hover(function(){$('#closeButton').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#closeButton').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+      $('#mainWindow').append('<div id="hpDisp1" style="position:absolute; top:200px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center;color:white;"></div>');
+      $('#hpDisp1').text(userHp + " / " + userMaxHp);
+    }
+    l=-1;
+    $('#btn1').remove();   
+    $('#btn2').remove();   
+    $('#btn3').remove();   
+    $('#btn4').remove();
+    buttons1();
+    $('#btn3').on("click",initialLoadTxt).text('Continue');
+    $('#mainWindowText').text("It seems you haven't played this before. Let's set you up!");
+  } else {
+    console.log("Type: " + typeof(localStorage.PlugRPG) + ". It doesn't return undefined and therefore has been ignored.");
+    if(doNotShow!==true){
+      settingsButton();
+      menuButton();
+    } else {
+      console.log("Game is hidden by user.");
+    }
+  }
+}
+function initialLoadTxt(){
+  l=l+1;
+  switch(l){
+    case 0:
+      $('#mainWindowText').text("Let's determine your stats, " + userName + "!");
+      break;
+    case 1:
+      bp = initialBp;
+      $('#mainWindowText').text("You have " + bp + " BP to distribute in your stats. Note: 1 point in HP will give +2 HP.");
+      userLevel = 1;
+      userAtk = 1;
+      userDef = 1;
+      userSpd = 1;
+      userHp = 10;
+      userMaxHp = 10;
+      userXp = 0;
+      kills = 0;
+      deaths = 0;
+      break;
+    case 2:
+      l=-1;
+      initial=false;
+      menuButton();
+      settingsButton();
+      bpDisText();
+      break;
+    default:
+      l=-1;
+      throw new Error('The game jumped out a window. (Error code: iLS)');
+  }
+}
+
+//#battleEncounter
+
+function monsterEncounter(){
+  $('#statTxt').remove();
+  $('#miniGame').remove();
+  if(!$('#mainWindow').length){
+    $('body').append('<div id="mainWindow" style="position:absolute; top:90px; right: 355px; height: 200px; width: 250px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100;"></div>');
+    $('#mainWindow').append('<div id="mainWindowText" style="position:absolute; top:12px; left:3px; text-align:left;color:white;"></div>');
+    $('body').append('<div id="closeButton" style="position: absolute; top:84px; right:349px; height:20px; width:20px; background-color:black; color:white; opacity: .8; z-index:101; font-size=170%; text-align:center; border: 2.5px solid #2FC7FB; border-radius: 10px;">X</div>');
+    $('#closeButton').on('click',mainWindowClose);
+    $('#closeButton').hover(function(){$('#closeButton').css("cursor","pointer");},function(){$('#closeButton').css("cursor","auto");});
+    $('#closeButton').hover(function(){$('#closeButton').css("box-shadow","0px 0px 5px 1px #FFFFFF inset");},function(){$('#closeButton').css("box-shadow","0px 0px 0px 0px #FFFFFF inset");});
+    $('#mainWindow').append('<div id="hpDisp1" style="position:absolute; top:200px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center;color:white;"></div>');
+    $('#hpDisp1').text(userHp + " / " + userMaxHp);
+  }
+  $('#statTxt').remove();
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  monsterLevel = Math.floor(Math.random()*(Math.floor(userLevel*0.8)))+(((Math.floor(userLevel*1.2-userLevel))*2)+1);
+  var monsterSelect = monsters0[Math.floor(Math.random()*monsters0.length)];
+  if (userHp <= 0) {
+    buttons2();
+    $('#mainWindowText').text("You cannot battle monsters when you're dead! You should go to the Clinic.");
+    $('#btn2').on("click",clinic).text('Go to the Clinic');
+    $('#btn3').on("click",menu).text('Back');
+  } else {
+    monsterData(monsterSelect);
+    monsterStats();
+  }
+}
+function monsterStats(){
+  console.log("monsterStats() is now running.");
+  console.log("Monster's type is '" + type + "'.");
+  if(type==='Balanced'){
+    mDisSelect = ['matk','matk','mdef','mdef','mspd','mhp','mhp'];
+  } else if(type==='Offensive'){
+    mDisSelect = ['matk','matk','matk','mdef','mdef','mspd','mhp','mhp'];
+  } else if(type==='Defensive'){
+    mDisSelect = ['matk','matk','mdef','mdef','mdef','mspd','mhp','mhp'];
+  } else if(type==='Quick'){
+    mDisSelect = ['matk','matk','mdef','mdef','mspd','mspd','mspd','mhp','mhp'];
+  } else if(type==='Healthy'){
+    mDisSelect = ['matk','matk','mdef','mdef','mspd','mhp','mhp','mhp'];
+  } else if(type==='Tanky'){
+    mDisSelect = ['matk','matk','mdef','mdef','mdef','mspd','mhp','mhp','mhp'];
+  } else if(type==='Aggressive'){
+    mDisSelect = ['matk','matk','matk','mdef','mspd','mhp'];
+  } else {
+    console.log("Something went wrong with the monster type.");
+  }
+  mDisPoints = monsterLevel-1;
+  if(monsterLevel<1){
+    monsterLevel=1;
+    console.log("Monster level is under 1, therefore it has been set to 1.");
+  } else {
+    console.log("Monster level is not under 1.");
+  }
+  monsterLevelStats();
+}
+function monsterLevelStats(){
+  console.log("monsterLevelStats() is now running.");
+  mDisStatSelect = mDisSelect[(Math.floor(Math.random()*mDisSelect.length))];
+  if(mDisPoints<1){
+    console.log("Finished distributing monster stats.");
+    mDisPoints=0;
+    mHp = hp;
+    buttons1();
+    $('#mainWindowText').text("You encountered " + prefixx + " " + monsterName + "!");
+    $('#btn3').on("click",battle).text('To battle!');
+  } else {
+    if(mDisStatSelect==='matk'){
+      atk=atk+1;
+      mDisPoints=mDisPoints-1;
+      console.log("Added a point in atk stat. Remaining mDisPoints: "+mDisPoints);
+    } else if(mDisStatSelect==='mdef'){
+      def=def+1;
+      mDisPoints=mDisPoints-1;
+      console.log("Added a point in def stat. Remaining mDisPoints: "+mDisPoints);
+    } else if(mDisStatSelect==='mspd'){
+      spd=spd+1;
+      mDisPoints=mDisPoints-1;
+      console.log("Added a point in spd stat. Remaining mDisPoints: "+mDisPoints);
+    } else if(mDisStatSelect==='mhp'){
+      hp=hp+2;
+      mDisPoints=mDisPoints-1;
+      console.log("Added a point in hp stat. Remaining mDisPoints: "+mDisPoints);
+    } else {
+      throw new Error("Something went wrong. (Error ID: mLS)");
+    }
+    console.log("Should now loop monsterLevelStats().");
+    monsterLevelStats();
+  }
+}
+
+//#battleSelectAction
+
+function battle(){
+  console.log("User selection state.");
+  $('#mainWindowText').text('');
+  userDmg = (Math.floor(Math.random() * ((userAtk * 1.5) + 1))) + (userAtk / 2);
+  monsterDmg = (Math.floor(Math.random() * ((atk * 1.5) + 1))) + (atk / 2);
+  d=-1;
+  battleD=false;
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons3();
+  $('#btn1').on("click",battleAttack).text('Attack');
+  $('#btn2').on("click",battleDefend).text('Defend');
+  $('#btn3').on("click",battleFlee).text('Flee');
+}
+/*function hpDisplay(){
+  if(!$('#hpDisp2').length){
+    $('#mainWindow').append('<div id="hpDisp2" style="position:absolute; top:200px; right:125px; height:20px; width:120px; background-color: black; border: 2.5px solid #2FC7FB; border-radius: 20px; opacity: .8; z-index: 100; text-align:center;"></div>');
+    $('#hpDisp2').text(hp + " / " + mHp);
+  } else {
+    $('#hpDisp2').remove();
+  }
+}*/
+
+//#battleAction
+
+function battleAttack(){
+  console.log("User has chosen to Attack.");
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  if(userSpd>spd){
+    console.log("User is faster than monster.");
+    d=0;
+    battleU();
+  } else if(userSpd<spd){
+    console.log("User is slower than monster.");
+    d=1;
+    battleM();
+  } else if(userSpd===spd){
+    ans = Math.floor(Math.random() * 2);
+    console.log("User is same speed as monster. (" + ans +")");
+    if(ans===0){
+      console.log("It has been determined that user is faster than monster.");
+      d=0;
+      battleU();
+    } else if(ans===1){
+      console.log("It has been determined that user is slower than monster.");
+      d=1;
+      battleM();
+    }
+  }
+}
+function battleDefend(){
+  console.log("User has chosen to Defend.");
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  battleD=true;
+  console.log("User's defending state is set to: " + battleD);
+  battleM();
+}
+function battleFlee(){
+  console.log("User has chosen to flee.");
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons1();
+  if(Math.round(Math.random())===1){
+    console.log("User has successfully fled.");
+    $('#mainWindowText').text("You successfully fled!");
+    $('#btn3').on("click",menu).text('Back to Menu');
+  } else {
+    console.log("User failed to flee.");
+    d=0;
+    $('#mainWindowText').text("You tried to flee but tripped on a rock!");
+    $('#btn3').on("click",battleM).text('Continue');
+  }
+}
+
+//#battleText
+
+function battleU(){
+  console.log("User is now attacking.");
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons1();
+  c=-1;
+  lastGivenHit = userDmg - def;
+  if (lastGivenHit < 1) {
+    console.log("Damage was " + lastGivenHit + " and was set to 1.");
+    lastGivenHit = 1;
+  }
+  hp = hp - lastGivenHit;
+  totalDmgDone = totalDmgDone+lastGivenHit;
+  console.log("User dealt " + lastGivenHit + " dmg. Monster's remaining HP: " + hp);
+  $('#mainWindowText').text("You attacked the " + monsterName + " and hit for " + lastGivenHit + " damage!");
+  $('#btn3').on("click",battleTxtU).text('Continue');
+}
+function checkHpM(){
+  console.log("Checking monster's HP.");
+  if (hp <= 0) {
+    console.log("Monster's HP is under 0.");
+    //hpDisplay();
+    $('#mainWindowText').text("You defeated the monster! Congratulations!");
+    kills = kills +1;
+  } else {
+    console.log("Monster's HP is not under 0. Proceeding to next step.");
+    c=6;
+    battleTxtU();
+  }
+}
+function battleTxtU(){
+  console.log("battleTxtU");
+  c=c+1;
+  switch(c){
+    case 0:
+      checkHpM();
+      break;
+    case 1:
+      bpArray.push(bpGained);
+      $('#mainWindowText').text("You gained " + bpArray[0] + " bp!");
+      bp = bp + bpArray[0];
+      bpArray.pop();
+      break;
+    case 2:
+      userXp = userXp + 2 * (atk + def + spd + monsterLevel);
+      $('#mainWindowText').text("You gained " + (atk + def + spd + monsterLevel) * 2 + " xp!");
+      nextLvl = Math.pow((userLevel + 1),2) * xpModifier;
+      if (userXp >= nextLvl) {
+        c=c+1;
+      } 
+      break;
+    case 3:
+      c=-1;
+      menu();
+      break;
+    case 4:
+      $('#mainWindowText').text("Congratulations! You levelled up!");
+      userLevel = userLevel + 1;
+      break;
+    case 5:
+      $('#mainWindowText').text("You gained 1 BP!");
+      bp = bp + 1;
+      c=2;
+      break;
+    case 7:
+      console.log("Now checking if monster or user went first.");
+      if(d===0){
+        console.log("User went first, therefore it is the monster's turn.");
+        battleM();
+      } else if(d===1){
+        console.log("User went last, therefore the user must choose the next action.");
+        battle();
+      } else {
+        throw new Error("Something jumped from a bridge and never came back. (Error ID: BU)");
+      }
+      break;
+    default:
+      throw new Error("Something jumped from a bridge and never came back. (Error ID: CU)");
+  }
+}
+function battleM(){
+  console.log("Entering monster's battle state.");
+  $('#btn1').remove();   
+  $('#btn2').remove();   
+  $('#btn3').remove();   
+  $('#btn4').remove();
+  buttons1();
+  c=-1;
+  if(battleD===true){
+    console.log("User is defending.");
+    lastReceivedHit = monsterDmg - userDef*1.2;
+  } else if(battleD===false){
+    console.log("User is not defending.");
+    lastReceivedHit = monsterDmg - userDef;
+  }
+  if (lastReceivedHit < 1) {
+    lastReceivedHit = 1;
+  }
+  totalDmgTaken = totalDmgTaken+lastReceivedHit;
+  userHp = userHp - lastReceivedHit;
+  checkHp();
+  console.log("Monster's damage was " + lastReceivedHit + ". User's remaining HP is " + userHp);
+  $('#mainWindowText').text("The " + monsterName + " hit you for " + lastReceivedHit + " damage!");
+  $('#btn3').on("click",battleTxtM).text('Continue');
+}
+function checkHpU(){
+  console.log("Now checking user's HP.");
+  if (userHp <= 0) {
+    console.log("User is dead.");
+    //hpDisplay();
+    $('#mainWindowText').text("You died!");
+    deaths = deaths +1;
+  } else {
+    console.log("User is still alive. Proceeding to next step.");
+    c=c+1;
+    battleTxtM();
+  }
+}
+function battleTxtM(){
+  console.log("battleTxtM");
+  c=c+1;
+  switch(c){
+    case 0:
+      checkHpU();
+      break;
+    case 1:
+      menu();
+      break;
+    case 2:
+      if(d===0||battleD===true){
+        battle();
+      } else if(d===1){
+        battleU();
+      } else {
+        throw new Error("Something jumped from a bridge and never came back. (Error ID: BM)");
+      }
+      break;
+    default:
+      throw new Error("Something jumped from a bridge and never came back. (Error ID: CM)");
+  }
+}
+
+//#monsterData
+
+function monsterData(id){
+    if (id === 'id00') {
+        atk = (Math.floor(Math.random() * 3)) + 2; //2-4
+        def = (Math.floor(Math.random() * 2)) + 0; //0-1
+        spd = (Math.floor(Math.random() * 3)) + 1; //1-3
+        hp = (Math.floor(Math.random() * 3)) + 10; //10-12
+        type = 'Balanced';
+        prefixx = 'a';
+        monsterName = 'Slime';
+    } else if (id === 'id01') {
+        atk = (Math.floor(Math.random() * 4)) + 1; //1-4
+        def = (Math.floor(Math.random() * 3)) + 1; //1-3
+        spd = (Math.floor(Math.random() * 0)) + 2; //2-2
+        hp = (Math.floor(Math.random() * 25)) + 1; //1-25
+        type = 'Balanced';
+        prefixx = 'a';
+        monsterName = 'Chicken';
+    } else if (id === 'id02') {
+        atk = (Math.floor(Math.random() * 2)) + 2; //2-3
+        def = (Math.floor(Math.random() * 3)) + 0; //0-2
+        spd = (Math.floor(Math.random() * 2)) + 1; //1-2
+        hp = (Math.floor(Math.random() * 5)) + 10; //10-14
+        type = 'Healthy';
+        prefixx = 'a';
+        monsterName = 'Dead Baby';
+    } else if (id === 'id03') {
+        atk = (Math.floor(Math.random() * 3)) + 1; //1-3
+        def = (Math.floor(Math.random() * 3)) + 0; //0-2
+        spd = (Math.floor(Math.random() * 0)) + 3; //3-3
+        hp = (Math.floor(Math.random() * 6)) + 7;  //7-12
+        type = 'Quick';
+        prefixx = 'a';
+        monsterName = 'Road Runner';
+    } else if (id === 'id04') {
+        atk = (Math.floor(Math.random() * 2)) + 3; //3-4
+        def = (Math.floor(Math.random() * 2)) + 0; //0-1
+        spd = (Math.floor(Math.random() * 2)) + 1; //1-2
+        hp = (Math.floor(Math.random() * 3)) + 8;  //8-10
+        type = 'Balanced';
+        prefixx = 'a';
+        monsterName = 'Dancing Chicken';
+    } else if (id === 'id05') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined05';
+    } else if (id === 'id06') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined06';
+    } else if (id === 'id07') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined07';
+    } else if (id === 'id08') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined08';
+    } else if (id === 'id09') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined09';
+    } else if (id === 'id10') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'Baby Golem';
+    } else if (id === 'id11') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefine11';
+    } else if (id === 'id12') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined12';
+    } else if (id === 'id13') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined13';
+    } else if (id === 'id14') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined14';
+    } else if (id === 'id15') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined15';
+    } else if (id === 'id16') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined16';
+    } else if (id === 'id17') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined17';
+    } else if (id === 'id18') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined18';
+    } else if (id === 'id19') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined19';
+    } else if (id === 'id20') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined20';
+    } else if (id === 'id21') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined21';
+    } else if (id === 'id22') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined22';
+    } else if (id === 'id23') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined23';
+    } else if (id === 'id24') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined24';
+    } else if (id === 'id25') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined25';
+    } else if (id === 'id26') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined26';
+    } else if (id === 'id27') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined27';
+    } else if (id === 'id28') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined28';
+    } else if (id === 'id29') {
+        atk = (Math.floor(Math.random() * 0)) + 1;
+        def = (Math.floor(Math.random() * 0)) + 1;
+        spd = (Math.floor(Math.random() * 0)) + 1;
+        hp = (Math.floor(Math.random() * 0)) + 10;
+        type = 'Balanced';
+        prefixx = 'an';
+        monsterName = 'undefined29';
+    } else if (id === 'idI00') {
+        atk = (Math.floor(Math.random() * 6)) + 2; //2-7
+        def = (Math.floor(Math.random() * 0)) + 0; //0-0
+        spd = (Math.floor(Math.random() * 3)) + 1; //1-3
+        hp = (Math.floor(Math.random() * 4)) + 4;  //4-7
+        type = 'Aggressive';
+        prefixx = '';
+        monsterName = 'Kaboom0';
+    }
+    
+}
+
+//#initialFunctions
+
+initialLoad();
+})();
