@@ -10,6 +10,7 @@
 var userName;
 var version = 'Alpha 0.1';
 function start(){
+      clearInterval(checkIfReady);
   $('#messages').append('<center class="cm log mention">PlugRPG version ' + version + ' initialized!');
   userName = username;
 }
